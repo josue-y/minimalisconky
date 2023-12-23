@@ -1,0 +1,2 @@
+# minimalisconky
+Conky editado  
